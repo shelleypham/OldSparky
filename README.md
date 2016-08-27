@@ -2,9 +2,11 @@ OLD SPARKY: Immersive Electric Chair Virtual Reality Project
 
 http://oldsparky.warpedimagination.com/
 
+***
 
 This is the Arduino code that was used for the VR experience.
 
+***
 
 FIRST EXHIBITION: SoCal VR Conference & Expo | August 2015 | Irvine, California
 
@@ -12,6 +14,7 @@ EXECUTION GALLERY: http://goo.gl/Lok031
 
 PROJECT HISTORY: http://goo.gl/baJtB2
 
+***
 
 MEDIA + PRESS:
 
@@ -21,9 +24,11 @@ Realidyne: http://goo.gl/v8L1vP
 
 VR Scout: http://goo.gl/7N7aex 
 
+***
 
 Special thanks to KOR-FX who provided the haptics gaming vest.
 
+***
 
 CREDITS:
 
