@@ -1,4 +1,4 @@
-OLD SPARKY: Immersive Electric Chair Virtual Reality Project
+#OLD SPARKY: Immersive Electric Chair Virtual Reality Project
 
 http://oldsparky.warpedimagination.com/
 
@@ -16,7 +16,7 @@ PROJECT HISTORY: http://goo.gl/baJtB2
 
 ***
 
-MEDIA + PRESS:
+######MEDIA + PRESS:
 
 OC Register: http://goo.gl/31YwqY
 
@@ -30,7 +30,7 @@ Special thanks to KOR-FX who provided the haptics gaming vest.
 
 ***
 
-CREDITS:
+######CREDITS:
 
 AARON GUTIERREZ
 
