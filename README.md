@@ -6,8 +6,11 @@ See more details at [Warped Imagination](http://oldsparky.warpedimagination.com/
 
 ###First Exhibition
 SoCal VR Conference & Expo
+
 August 2015
+
 Irvine, California
+
 
 ###Execution Gallery
 See it [here](http://goo.gl/Lok031).
@@ -16,7 +19,7 @@ See it [here](http://goo.gl/Lok031).
 See it [here](http://goo.gl/baJtB2).
 
 
-##MEDIA + PRESS:
+##Media and Press:
 
 [OC Register](http://goo.gl/31YwqY)
 
@@ -30,7 +33,7 @@ See it [here](http://goo.gl/baJtB2).
 Special thanks to KOR-FX who provided the [haptics gaming vest](http://korfx.com/products).
 
 
-##CREDITS:
+##Credits:
 
 * Aaron Gutierrez
 
