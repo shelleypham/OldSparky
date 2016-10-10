@@ -1,49 +1,49 @@
-#OLD SPARKY: Immersive Electric Chair Virtual Reality Project
-
-http://oldsparky.warpedimagination.com/
-
-***
+#Old Sparky: Immersive Electric Chair Virtual Reality Project
 
 This is the Arduino code that was used for the VR experience.
+See more details at [Warped Imagination](http://oldsparky.warpedimagination.com/)
 
-***
 
-FIRST EXHIBITION: SoCal VR Conference & Expo | August 2015 | Irvine, California
+###First Exhibition
+SoCal VR Conference & Expo
+August 2015
+Irvine, California
 
-EXECUTION GALLERY: http://goo.gl/Lok031
+###Execution Gallery
+See it [here](http://goo.gl/Lok031).
 
-PROJECT HISTORY: http://goo.gl/baJtB2
+###Project History
+See it [here](http://goo.gl/baJtB2).
 
-***
 
-######MEDIA + PRESS:
+##MEDIA + PRESS:
 
-OC Register: http://goo.gl/31YwqY
+[OC Register](http://goo.gl/31YwqY)
 
-Realidyne: http://goo.gl/v8L1vP
+[Realidyne](http://goo.gl/v8L1vP)
 
-VR Scout: http://goo.gl/7N7aex 
+[VR Scout](http://goo.gl/7N7aex)
 
-***
 
-Special thanks to KOR-FX who provided the haptics gaming vest.
+##KOR-FX
 
-***
+Special thanks to KOR-FX who provided the [haptics gaming vest](http://korfx.com/products).
 
-######CREDITS:
 
-AARON GUTIERREZ
+##CREDITS:
 
-ANDREW JOHNSON
+* Aaron Gutierrez
 
-ARMAN BASTANI - Oval Integration
+* Andrew Johnson
 
-DAVID GREEN - Warped Imagination
+* Arman Bastani - Oval Integration
 
-DYLAN WATKINS - Monster VR
+* David Green - Warped Imagination
 
-KENDRICK PARKS
+* Dylan Watkins - Monster VR
 
-MATTHEW KINNEY - Monster VR
+* Kendrick Parks
 
-SHELLEY PHAM - Oval Integration
+* Matthew Kinney - Monster VR
+
+* Shelley Pham - Oval Integration
